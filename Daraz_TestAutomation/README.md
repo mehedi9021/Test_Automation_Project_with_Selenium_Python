@@ -1,4 +1,4 @@
-## Daraz [https://www.daraz.com.bd/] test automation using Page Object Model
+## [@Daraz](https://www.daraz.com.bd/) Test Automation using Page Object Model
 
 ## Technology Used:
 - Test Tool:  Selenium Webdriver 
