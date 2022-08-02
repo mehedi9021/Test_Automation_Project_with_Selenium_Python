@@ -16,7 +16,7 @@
 - Openpyxl: MS Excel Support
 - Chrome: To Browse
 
-## Run the script:
+## Run the Script:
 - Right Click on run.bat File
 - Run the Test Cases
 - Close the Program
