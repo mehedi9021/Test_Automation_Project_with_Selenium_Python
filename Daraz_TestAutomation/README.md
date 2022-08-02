@@ -1,13 +1,13 @@
-##Daraz [https://www.daraz.com.bd/] test automation using Page Object Model
+## Daraz [https://www.daraz.com.bd/] test automation using Page Object Model
 
-##Technology used:
-- Test tool:  Selenium Webdriver 
+## Technology Used:
+- Test Tool:  Selenium Webdriver 
 - Language: Python  
-- Architecture: POM
+- Architecture: POM (Page Object Model)
 - Framework: Hybrid Framework from Scratch
 - IDE: PyCharm
 
-##Pre Requisites:
+## Pre Requisites:
   
 - Selenium: Selenium Libraries
 - Pytest: Python Unittest Framework
@@ -23,4 +23,4 @@
 
 ## Author
 
-- [@Md. Mehedi Hasan]([https://www.github.com/arfoysal](https://github.com/mehedi9021))
+- [@Md.MehediHasan]([https://www.github.com/arfoysal](https://github.com/mehedi9021))
