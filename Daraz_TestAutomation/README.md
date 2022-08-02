@@ -12,7 +12,7 @@
 - Selenium: Selenium Libraries
 - Pytest: Python Unittest Framework
 - Pytest -html: Pytest HTML Reports
-- Pytest -xdist: Run Test Parallel
+- Pytest -xdist: Run Tests Parallel
 - Openpyxl: MS Excel Support
 - Chrome: To Browse
 
