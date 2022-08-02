@@ -1,4 +1,4 @@
-## [@nopCommerce](https://www.nopcommerce.com/) Test Automation using Page Object Model
+## [@nopCommerce](https://www.nopcommerce.com/) Test Automation using Hybrid Framework from Scratch | Page Object Model
 
 ## Technology Used:
 - Test Tool:  Selenium Webdriver 
