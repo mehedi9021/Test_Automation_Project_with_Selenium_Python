@@ -1,0 +1,1 @@
+pytest -s -v -m "regression" --html=./Reports/Daraz_TestAutomation.html testCases/

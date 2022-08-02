@@ -1,0 +1,8 @@
+>>Run: pytest -s -v 'ref path'
+>>HTML Report_test_Login:pytest -s -v -n=2 --html=reports\report_test_Login.html testCases/test_Login.py [n=testcase no]
+>>HTML Report_test_LoginDDT: pytest -s -v -n=1 --html=reports\report_test_LoginDDT.html testCases/test_LoginDDT.py
+>>Run all sanity markers: pytest -s -v -m "sanity"
+>>Run all sanity regression: pytest -s -v -m "regression"
+>>Run both: pytest -s -v -m "sanity and regression"
+>>Run either sanity or regression: pytest -s -v -m "sanity or regression"
+>>HTML report for sanity: pytest -s -v -m "sanity" --html=reports\report_test_sanity.html testCases/
