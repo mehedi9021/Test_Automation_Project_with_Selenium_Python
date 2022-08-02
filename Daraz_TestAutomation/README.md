@@ -23,4 +23,4 @@
 
 ## Author
 
-- [@Md.MehediHasan]([https://www.github.com/arfoysal](https://github.com/mehedi9021))
+- [@Md. Mehedi Hasan](https://github.com/mehedi9021)
