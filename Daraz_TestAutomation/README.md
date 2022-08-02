@@ -1,1 +1,26 @@
-<h2>Daraz [https://www.daraz.com.bd/] test automation using hybrid framework from scratch<h2>
+##Daraz [https://www.daraz.com.bd/] test automation using Page Object Model
+
+##Technology used:
+- Test tool:  Selenium Webdriver 
+- Language: Python  
+- Architecture: POM
+- Framework: Hybrid Framework from Scratch
+- IDE: PyCharm
+
+##Pre Requisites:
+  
+- Selenium: Selenium Libraries
+- Pytest: Python Unittest Framework
+- Pytest -html: Pytest HTML Reports
+- Pytest -xdist: Run Test Parallel
+- Openpyxl: MS Excel Support
+- Chrome: To Browse
+
+## Run the script:
+- Right Click on run.bat File
+- Run the Test Cases
+- Close the Program
+
+## Author
+
+- [@Md. Mehedi Hasan]([https://www.github.com/arfoysal](https://github.com/mehedi9021))
