@@ -1,6 +1,6 @@
-## @Daraz Test Automation Using Page Object Model
+## @Daraz test automation using hybrid framework from scratch | page object model
 
-## Technology Used
+## Technology used
 
 - Test Tool: Selenium Webdriver
 - Language: Python
@@ -8,7 +8,7 @@
 - Framework: Hybrid Framework from Scratch
 - IDE: PyCharm
 
-## Pre Requisites:
+## Pre requisites:
 
 - selenium: Selenium Libraries
 - pytest: Python Unit Test Framework
@@ -16,7 +16,7 @@
 - pytest-xdist: Run Tests Parallel
 - openpyxl: MS Excel Support
 
-## Run the Script:
+## Run the script:
 
 - Right click on run.bat file
 - Run the cases
