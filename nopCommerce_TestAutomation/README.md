@@ -1,6 +1,6 @@
-### @nopCommerce Test Automation Using Page Object Model
+## @nopCommerce Test Automation Using Page Object Model
 
-### Technology Used
+## Technology Used
 
 - Test Tool: Selenium Webdriver
 - Language: Python
@@ -8,7 +8,7 @@
 - Framework: Hybrid Framework from Scratch
 - IDE: PyCharm
 
-### Pre Requisites:
+## Pre Requisites:
 
 - selenium: Selenium Libraries
 - pytest: Python Unit Test Framework
@@ -16,12 +16,12 @@
 - pytest-xdist: Run Tests Parallel
 - openpyxl: MS Excel Support
 
-### Run the Script:
+## Run the Script:
 
 - Right click on run.bat file
 - Run the cases
 - Close the program
 
-### Author
+## Author
 
 - [@Md. Mehedi Hasan](https://github.com/mehedi9021)
