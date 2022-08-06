@@ -1,4 +1,4 @@
-### @Daraz Test Automation using Page Object Model
+### @Daraz Test Automation Using Page Object Model
 
 ### Technology Used
 
