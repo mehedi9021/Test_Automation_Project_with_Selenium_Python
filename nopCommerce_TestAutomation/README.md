@@ -1,4 +1,4 @@
-### @nopCommerce Test Automation using Page Object Model
+### @nopCommerce Test Automation Using Page Object Model
 
 ### Technology Used
 
