@@ -1,4 +1,4 @@
-## @nopCommerce Test Automation using Hybrid Framework From Scratch | Page Object Model
+## @nopCommerce Test Automation using Hybrid Framework from Scratch | Page Object Model
 
 ## Technology Used
 
