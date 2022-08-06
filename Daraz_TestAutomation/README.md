@@ -1,4 +1,4 @@
-## @Daraz Test Automation using Hybrid Framework From Scratch | Page Object Model
+## @Daraz Test Automation using Hybrid Framework from Scratch | Page Object Model
 
 ## Technology Used
 
