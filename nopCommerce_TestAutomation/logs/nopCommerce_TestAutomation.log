@@ -1,0 +1,322 @@
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:42,780 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,852 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:50,859 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,002 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:51,003 - root - INFO - ***** Completed Test_001_homePageTitle *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:03:53,994 - root - INFO - ***** Starting Test_002_login *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:04:12,533 - root - INFO - ***** Verifying Login Test *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:32,851 - root - INFO - ***** Login Test is Passed *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,028 - root - INFO - ***** End of Verifying Login Test *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:33,029 - root - INFO - ***** Completed Test_002_login *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:35,620 - root - INFO - ***** Starting Test_003_loginDDT *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:05:51,173 - root - INFO - ***** Starting Login DDT Test *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:00,105 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:08,871 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:14,817 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,200 - root - INFO - ***** DDT Login Test Passed *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** End of Login DDT Test *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:21,361 - root - INFO - ***** Completed Test_003_loginDDT *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:07:23,744 - root - INFO - ***** Starting Test_004_addCustomer *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,861 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:08:19,862 - root - INFO - ***** Starting Add Customer Test *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:09:33,355 - root - INFO - ***** Providing Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,460 - root - INFO - ***** Saving Customer Info *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:24,461 - root - INFO - ***** Add Customer Validation Started *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,431 - root - INFO - ***** Add Customer Test Passed *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,587 - root - INFO - ***** End of Add Customer Test *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:25,588 - root - INFO - ***** Completed Test_004_addCustomer *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:28,569 - root - INFO - ***** Starting Test_005_searchCustomerbyName *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,777 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:41,778 - root - INFO - ***** Starting Search Customer By Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:49,499 - root - INFO - ***** Searching Customer by Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** End of Search Customer By Name *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:55,122 - root - INFO - ***** Completed Test_005_searchCustomerbyName *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:11:57,599 - root - INFO - ***** Starting Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,948 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:09,949 - root - INFO - ***** Starting Search Customer By Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:15,619 - root - INFO - ***** Searching Customer by Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** End of Search Customer By Email *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:21,352 - root - INFO - ***** Completed Test_006_searchCustomerbyEmail *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:24,006 - root - INFO - ***** Starting Test_007_logout *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,163 - root - INFO - ***** Login Succesful *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:36,164 - root - INFO - ***** Starting Logout Test *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,668 - root - INFO - ***** Logout Test is Passed *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** End of Logout Test *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****
+2022-08-09 11:12:37,898 - root - INFO - ***** Completed Test_007_logout *****

@@ -1,0 +1,1 @@
+pytest -s -v -m "regression" --html=./reports/nopCommerce_TestAutomation.html testCases/
