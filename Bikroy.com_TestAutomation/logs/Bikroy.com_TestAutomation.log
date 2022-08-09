@@ -1,0 +1,5 @@
+2022-08-09 12:11:26,431 - root - INFO - ***** Starting Test_001_homePageTitle *****
+2022-08-09 12:11:45,719 - root - INFO - ***** Verifying Home Page Title *****
+2022-08-09 12:11:45,726 - root - INFO - ***** Home Page Title Test is Passed *****
+2022-08-09 12:11:46,034 - root - INFO - ***** End of Verifying Home Page Title *****
+2022-08-09 12:11:46,034 - root - INFO - ***** Completed Test_001_homePageTitle *****
