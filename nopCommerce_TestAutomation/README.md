@@ -1,6 +1,6 @@
 ## @nopCommerce Test Automation using Page Object Model
 
-## Technology Used
+## Technology Used:
 
 - Test Tool: Selenium Webdriver
 - Language: Python
@@ -22,6 +22,6 @@
 - Run the cases
 - Close the program
 
-## Author
+## Author:
 
 - [@Md. Mehedi Hasan](https://github.com/mehedi9021)
