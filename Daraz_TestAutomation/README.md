@@ -16,6 +16,26 @@
 - pytest-xdist: Run Tests Parallel
 - openpyxl: MS Excel Support
 
+## The Steps executed in these Automation are:
+
+# TestCase 01: test_001_homePageTitle
+- Open Chrome browser
+- Go to Daraz Homepage URL
+- Maximize the browser window
+- Get the page title
+- Verify the title and take a screenshot if failed
+- Close the window
+
+# TestCase 02: test_002_login
+- Open Chrome browser
+- Go to Daraz Homepage URL
+- Maximize the browser window
+- Click to SIGNUP / LOGIN
+- Provide user phone no. and password
+- Click to login button
+- Verify the login with home page title and take a screenshot if failed
+- Close the window
+
 ## Run the Script:
 
 - Right click on run.bat file
