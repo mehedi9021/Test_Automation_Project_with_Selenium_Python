@@ -16,7 +16,7 @@
 - pytest-xdist: Run Tests Parallel
 - openpyxl: MS Excel Support
 
-## The Steps executed in these Automation are:
+## The Steps Executed in these Automation are:
 
 ## TestCase 01: test_001_homePageTitle
 - Open Chrome browser
