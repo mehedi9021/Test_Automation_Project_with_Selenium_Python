@@ -30,7 +30,7 @@
 - Open Chrome browser
 - Go to Daraz Homepage URL
 - Maximize the browser window
-- Click to SIGNUP / LOGIN
+- Click to 'SIGNUP / LOGIN'
 - Provide user phone no. and password
 - Click to login button
 - Verify the login with home page title and take a screenshot if failed
