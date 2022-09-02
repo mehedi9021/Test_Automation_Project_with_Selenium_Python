@@ -43,7 +43,7 @@
 - Perform login
 - Enter a product name in search box
 - Click to search icon
-- Verify the search result and take a screenshot if failed
+- Verify the search result throug text verification and take a screenshot if failed
 - Click to logout
 
 ## TestCase 04: test_004_itemAddtoCart
@@ -55,7 +55,7 @@
 - Click to the item from search result
 - Click to add quantity
 - Click add to cart button
-- Verify the product added successfully and take a screenshot if failed
+- Verify the product added successfully throug text verification and take a screenshot if failed
 - Click to logout
 
 ## TestCase 05: test_005_itemDeletefromCart
@@ -66,7 +66,7 @@
 - Click to cart icon
 - Select all the items
 - Click to delete button
-- Verify the products are deleted and take a screenshot if failed
+- Verify the products are deleted throug text verification and take a screenshot if failed
 - Click to logout
 
 ## TestCase 06: test_006_verifyProductCategory
@@ -77,7 +77,7 @@
 - Hover over the category
 - Hover over the sub-category
 - Click to 'Cat Food'
-- Verify the result and take a screenshot if failed
+- Verify the result throug text verification and take a screenshot if failed
 - Click to logout
 
 ## TestCase 06: test_007_addNewAddress
