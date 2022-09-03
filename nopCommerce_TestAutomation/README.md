@@ -1,4 +1,4 @@
-## @nopCommerce Test Automation using Page Object Model
+## (@nopCommerce)[https://www.nopcommerce.com/en] Test Automation using Page Object Model
 
 ## Technology Used:
 
@@ -15,6 +15,34 @@
 - pytest-html: Pytest HTML Report
 - pytest-xdist: Run Tests Parallel
 - openpyxl: MS Excel Support
+
+## The Steps Executed in these Automation are:
+
+## TestCase 01: test_001_homePageTitle
+- Open Chrome browser
+- Go to Daraz Homepage URL
+- Maximize the browser window
+- Get the page title
+- Verify the title and take a screenshot if failed
+- Close the window
+
+## TestCase 02: test_002_login
+- 
+
+## TestCase 03: test_003_loginDDT
+- 
+
+## TestCase 04: test_004_addCustomer
+- 
+
+## TestCase 05: test_005_searchCustomerbyName
+- 
+
+## TestCase 06: test_006_searchCustomerbyEmail
+- 
+
+## TestCase 07: test_007_logout
+- 
 
 ## Run the Script:
 
